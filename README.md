@@ -1,1 +1,2 @@
-# Unnamed-RPG
+# Iterative Development RPG
+The intent is to start with a completely blank slate, to allow individual contributors to tackle one or two pieces they want to focus on, and contribute it back for review and discussion on how it can be incorporated and improved in an overall world. There is currently no overarching themes or world characteristics, so it's ultimately up to all contributors to make it what they want.
