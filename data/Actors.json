@@ -1,7 +1,11 @@
 [
 null,
-{"id":1,"battlerName":"Priors 1","characterIndex":0,"characterName":"Priors","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Priors","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Priors 2","characterIndex":1,"characterName":"Priors","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"Priors","traits":[],"initialLevel":1,"maxLevel":99,"name":"Therese","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Priors 3","characterIndex":2,"characterName":"Priors","classId":3,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"Priors","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marsha","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Priors 4","characterIndex":3,"characterName":"Priors","classId":4,"equips":[4,0,2,3,4],"faceIndex":3,"faceName":"Priors","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Priors 1","characterIndex":0,"characterName":"Priors","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Priors","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pelor","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Priors 2","characterIndex":1,"characterName":"Priors","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"Priors","traits":[],"initialLevel":1,"maxLevel":99,"name":"Fale","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Priors 3","characterIndex":2,"characterName":"Priors","classId":3,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"Priors","traits":[],"initialLevel":1,"maxLevel":99,"name":"Trindol","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Priors 4","characterIndex":3,"characterName":"Priors","classId":4,"equips":[4,0,2,3,4],"faceIndex":3,"faceName":"Priors","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kappran","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Priors 5","characterIndex":4,"characterName":"Priors","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Priors","traits":[],"initialLevel":1,"maxLevel":99,"name":"Malleock","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Priors 6","characterIndex":5,"characterName":"Priors","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Priors","traits":[],"initialLevel":1,"maxLevel":99,"name":"Anborose","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Priors 7","characterIndex":6,"characterName":"Priors","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Priors","traits":[],"initialLevel":1,"maxLevel":99,"name":"Enu","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"Priors 8","characterIndex":7,"characterName":"Priors","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Priors","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rash","nickname":"","note":"","profile":""}
 ]
