@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Archives of Knowledge","order":2,"parentId":2,"scrollX":848,"scrollY":624},
+{"id":1,"expanded":false,"name":"Archives of Knowledge","order":2,"parentId":2,"scrollX":982.8,"scrollY":604.8},
 {"id":2,"expanded":true,"name":"Eternal Plains","order":1,"parentId":0,"scrollX":982.8,"scrollY":604.8},
 {"id":3,"expanded":false,"name":"Pond of Memories","order":3,"parentId":2,"scrollX":982.8,"scrollY":604.8},
-{"id":4,"expanded":false,"name":"Terrace of Creation","order":4,"parentId":2,"scrollX":982.8,"scrollY":604.8},
-{"id":5,"expanded":false,"name":"Pillars of Balance","order":5,"parentId":2,"scrollX":973.1999999999999,"scrollY":604.8}
+{"id":4,"expanded":false,"name":"Terrace of Creation","order":4,"parentId":2,"scrollX":1152,"scrollY":595.1999999999999},
+{"id":5,"expanded":false,"name":"Pillars of Balance","order":5,"parentId":2,"scrollX":816,"scrollY":1052}
 ]
